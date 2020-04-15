@@ -1,1 +1,1 @@
-<?php header('C:\Users\Sina\Desktop\public_html\index.html'); ?>
+<?php include_once("deneme.html"); ?>
